@@ -40,7 +40,7 @@ div {
     /* this will change the container class background to red when tablet*/
 
 	.col {
-        background-color: lavenderblush;
+        background-color: #A9CDE9;
     }
 }
 
@@ -48,7 +48,7 @@ div {
     /* For desktop: will change the container class to orange*/
 
     .col {
-        background-color: lightgray;
+        background-color: #B5D5EE;
     }
 }
 
@@ -56,7 +56,7 @@ div {
     /* For desktop: will change the container class to orange*/
 
     .col {
-        background-color: lightgoldenrodyellow;
+        background-color: #CAE3F7;
     }
 }
 
@@ -76,7 +76,7 @@ Orientation of landscape
 }
 		
 body {
-	
+	font-family: Arial;
 	background-color: #242541;
 	color: black;
 )
