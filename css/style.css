@@ -40,6 +40,14 @@ body {
 	color: black;
 }
 
+a:link {
+    color: #0041AF;
+}
+
+a:visited {
+    color: #00286B;
+}
+
 
 @media only screen and (min-width: 100px) {
     /* For tablets: */
